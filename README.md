@@ -38,7 +38,11 @@
 
 <br />
 <br />
-<summary>:zap: GitHub Stats</summary>
-  [![Swagato's GitHub stats](https://github-readme-stats.vercel.app/api?username=swagatobag2000)]
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.swagatobag2000.vercel.app/api?username=swagatobag2000&show_icons=true&hide_border=true" />
+
+</details>
 [instagram]: https://www.instagram.com/swagato.bag/
 [linkedin]: https://linkedin.com/in/swagatobag/
