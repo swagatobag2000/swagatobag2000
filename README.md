@@ -67,7 +67,7 @@
 </a>
   
 <a href="https://github.com/swagatobag2000">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=swagatobag2000&count_private=true&show_icons=true&theme=tokyonight&hide=prs" alt="Swagato's github stats"/>
+  <img align="center" width = "50%" src="https://github-readme-stats.vercel.app/api?username=swagatobag2000&count_private=true&show_icons=true&theme=tokyonight&hide=prs" alt="Swagato's github stats"/>
 </a>
 <br/>
 
