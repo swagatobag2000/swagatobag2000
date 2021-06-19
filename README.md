@@ -1,14 +1,19 @@
-### Hi there, I'm Swagato 👋
+### Hello there, I'm Swagato 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow]([https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667]](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a College Student, Developer, and TeacherBuddy!!
 
+- 🔭 I’m currently working on a NLP Project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 💬 Ask me about Flutter or any tech-related stuff.
+- 📫 How to reach me: [Linkedin]
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to sing and play guitar
+
 
 ### Connect with me:
 
