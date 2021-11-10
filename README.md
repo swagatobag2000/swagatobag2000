@@ -75,12 +75,19 @@
   
 ### Recent Repos:
   
+<a href="https://github.com/swagatobag2000/AI-Enabled-FinTech-B2B-Order-Management-Application_MINOR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=AI-Enabled-FinTech-B2B-Order-Management-Application_MINOR&theme=dark" />
+</a>
+<a href="https://github.com/swagatobag2000/sb_utility_library">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=sb_utility_library&theme=dark" />
+</a>
+<a href="https://github.com/swagatobag2000/python-telegram-bot">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=python-telegram-bot&theme=dark" />
+</a>
 <a href="https://github.com/swagatobag2000/loan-approval-prediction-webapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=loan-approval-prediction-webapp&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=loan-approval-prediction-webapp&theme=dark" />
 </a>
-<a href="https://github.com/swagatobag2000/box-office">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=box-office&theme=dark" />
-</a>
+
 
 <div align="center">
 
