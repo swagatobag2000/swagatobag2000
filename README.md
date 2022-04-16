@@ -79,7 +79,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatobag2000&theme=tokyonight&layout=compact" />
   </a>
   <a href="https://github.com/swagatobag2000">
-    <img align="center" width = "41.5%" src="https://github-readme-stats.vercel.app/api?username=swagatobag2000&count_private=true&show_icons=true&theme=tokyonight&" alt="Swagato's github stats"/>
+    <img align="center" width = "45%" src="https://github-readme-stats.vercel.app/api?username=swagatobag2000&count_private=true&show_icons=true&theme=tokyonight&" alt="Swagato's github stats"/>
   </a>
  </p>
 <br/>
