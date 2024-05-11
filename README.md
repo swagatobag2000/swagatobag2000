@@ -7,12 +7,12 @@
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/) -->
 
 
-## I'm a Final year College Student, Developer, and TeacherBuddy!!
+## I'm a Corporate Employee, Developer, and TeacherBuddy!!
 
-- 🔭 I’m currently working on a ML Project
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Various Cloud and Data Science Projects
+- 🌱 I’m currently learning and executing everything 🤣
 - 👯 I’m looking to collaborate with other Developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 💬 Ask me about ML, Flutter or any tech-related stuff.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/swagatobag/)
 - 😄 Pronouns: He/His
